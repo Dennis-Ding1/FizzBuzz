@@ -9,6 +9,5 @@ public class Multiples {
             cur++;
         }
         System.out.println(result);
-
     }
 }
